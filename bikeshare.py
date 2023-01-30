@@ -182,6 +182,12 @@ def user_stats(df,city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+def printNewEdit():
+    print(" wellcome")
+    
+    def printInf():
+            print("Hello")
+
 def display_raw_data(df):
     """Displays raw data on user request.
     Args:
