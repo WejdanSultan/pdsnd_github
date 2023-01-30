@@ -185,6 +185,8 @@ def user_stats(df,city):
 def printNewEdit():
     print(" wellcome")
     
+    def printInf():
+            print("Hello")
 
 def display_raw_data(df):
     """Displays raw data on user request.
